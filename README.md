@@ -6,6 +6,8 @@ Control your fan based on the fact if someone is present in a room or not. If so
 2) GND of Arduino -> GND of Relay.
 3) Pin 8 of Arduin0 -> IN4 of Relay (or any other input according to your relay module channels, mine was at channel 4).
 
+***NOTE: THIS WILL ONLY TURN THE RELAY ON AND OFF BASED ON THE DETECTION OF FACE. FOR SAFETY PURPOSE I AM NOT TELLING HOW TO CONNECT RELAY TO LIVE WIRES IF YOU WANT TO DO CHECK OUT SOME ONLINE ARTICLES/VIDEOS***
+
 ### HOW TO RUN ###
 1) Firstly make the connections and upload 'fan_control.ino' to arduino
 2) Run the 'fan_control_detection.py' (Dependencies can be found below...
