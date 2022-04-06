@@ -10,7 +10,8 @@ Control your fan based on the fact if someone is present in a room or not. If so
 
 ### HOW TO RUN ###
 1) Firstly make the connections and upload 'fan_control.ino' to arduino
-2) Run the 'fan_control_detection.py' (Dependencies can be found below...
+2) Run the 'fan_control_detection.py' (Dependencies can be found below...)
+3) Press 'q' to exit the program in python.
 
 ### PYTHON FILE REQUIREMENTS ###
 python version: 3.6.6
