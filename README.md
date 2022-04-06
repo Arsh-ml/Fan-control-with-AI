@@ -2,8 +2,8 @@
 Control your fan based on the fact if someone is present in a room or not. If someone is present, the fan goes on and vice versa.
 
 ### CONNECTIONS FOR ARDUINO ###
-VIN of Arduino -> 5V of Relay
-GND of Arduino -> GND of Relay
+VIN of Arduino -> 5V of Relay.
+GND of Arduino -> GND of Relay.
 Pin 8 of Arduin0 -> IN4 of Relay (or any other input according to your relay module channels, mine was at channel 4).
 
 ### HOW TO RUN ###
